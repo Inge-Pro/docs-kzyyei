@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-bfqdoa.indocuan-win.sbs/sitemap.xml
